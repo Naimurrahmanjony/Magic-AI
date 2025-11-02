@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Adventure Engine",
+  "description": "An infinite choose-your-own-adventure game powered by Gemini. The story, images, inventory, and quests are dynamically generated in real-time, creating a unique journey with every choice.",
+  "requestFramePermissions": []
+}
